@@ -1,0 +1,15 @@
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\bin\Debug\net6.0\CasgemUow.DataAccessLayer.deps.json
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\bin\Debug\net6.0\CasgemUow.DataAccessLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\bin\Debug\net6.0\CasgemUow.DataAccessLayer.pdb
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\bin\Debug\net6.0\CasgemUow.EntityLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\bin\Debug\net6.0\CasgemUow.EntityLayer.pdb
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\CasgemUow.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\CasgemUow.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\CasgemUow.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\CasgemUow.DataAccessLayer.AssemblyInfo.cs
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\CasgemUow.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\CasgemUow.DataAccessLayer.csproj.CopyComplete
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\CasgemUow.DataAccessLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\refint\CasgemUow.DataAccessLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\CasgemUow.DataAccessLayer.pdb
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.DataAccessLayer\obj\Debug\net6.0\ref\CasgemUow.DataAccessLayer.dll

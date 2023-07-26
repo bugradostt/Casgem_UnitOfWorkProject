@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CasgemUow.PresentationLayer.props" />
+</Project>

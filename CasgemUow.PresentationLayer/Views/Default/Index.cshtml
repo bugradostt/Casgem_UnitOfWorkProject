@@ -1,0 +1,27 @@
+﻿@model CasgemUow.EntityLayer.Concrete.CustomerProcess
+
+@{
+    Layout = null;
+}
+
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+
+    <form method="post">
+        <label>Gonderen Id</label>
+        <input asp-for="CustomerProcessSenderId" />
+
+        <label>Alıcı Id</label>
+        <input asp-for="CustomerProcessReceiverId" />
+
+        <label>Miktar</label>
+        <input asp-for="CustomerProcessAmount" />
+
+
+    </form>
+
+</div>
+

@@ -1,0 +1,14 @@
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\bin\Debug\net6.0\CasgemUow.EntityLayer.deps.json
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\bin\Debug\net6.0\CasgemUow.EntityLayer.runtimeconfig.json
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\bin\Debug\net6.0\CasgemUow.EntityLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\bin\Debug\net6.0\CasgemUow.EntityLayer.pdb
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\CasgemUow.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\CasgemUow.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\CasgemUow.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\CasgemUow.EntityLayer.AssemblyInfo.cs
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\CasgemUow.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\CasgemUow.EntityLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\refint\CasgemUow.EntityLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\CasgemUow.EntityLayer.pdb
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\CasgemUow.EntityLayer.genruntimeconfig.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.EntityLayer\obj\Debug\net6.0\ref\CasgemUow.EntityLayer.dll

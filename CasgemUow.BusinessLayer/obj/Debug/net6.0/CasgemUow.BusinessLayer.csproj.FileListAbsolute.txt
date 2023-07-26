@@ -1,0 +1,17 @@
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\bin\Debug\net6.0\CasgemUow.BusinessLayer.deps.json
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\bin\Debug\net6.0\CasgemUow.BusinessLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\bin\Debug\net6.0\CasgemUow.BusinessLayer.pdb
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\bin\Debug\net6.0\CasgemUow.DataAccessLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\bin\Debug\net6.0\CasgemUow.EntityLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\bin\Debug\net6.0\CasgemUow.DataAccessLayer.pdb
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\bin\Debug\net6.0\CasgemUow.EntityLayer.pdb
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\CasgemUow.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\CasgemUow.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\CasgemUow.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\CasgemUow.BusinessLayer.AssemblyInfo.cs
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\CasgemUow.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\CasgemUow.BusinessLayer.csproj.CopyComplete
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\CasgemUow.BusinessLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\refint\CasgemUow.BusinessLayer.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\CasgemUow.BusinessLayer.pdb
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_UnitOfWorkProject\CasgemUow.BusinessLayer\obj\Debug\net6.0\ref\CasgemUow.BusinessLayer.dll
